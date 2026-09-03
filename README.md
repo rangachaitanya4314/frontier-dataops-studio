@@ -32,4 +32,4 @@ MIT
 
 ## Screenshot
 
-![Homepage Screenshot](homepage.png.jpg)
+![Homepage Screenshot](homepage.jpg)
