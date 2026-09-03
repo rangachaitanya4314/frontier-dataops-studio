@@ -29,3 +29,7 @@ npm run dev
 ## License
 
 MIT
+
+## Screenshot
+
+![Homepage Screenshot](homepage.png.jpg)
